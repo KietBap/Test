@@ -1,0 +1,3 @@
+- Tui nắm được tạm phần CRUD, exception rồi
+- Ông chỉ tui những phần tui cần học thêm để làm đúng trọng tâm bài project với
+- Với tuần này mình cần hoàn thành những phần nào á
